@@ -89,13 +89,3 @@ I enjoy solving real-world problems, building data-driven solutions, and continu
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
----
-
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ebraam Atef&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Ebraam Atef&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebraam Atef&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://visitcount.itsvg.in/api?id=Ebraam Atef&icon=0&color=0)
