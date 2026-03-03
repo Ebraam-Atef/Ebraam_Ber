@@ -91,8 +91,11 @@ I enjoy solving real-world problems, building data-driven solutions, and continu
 
 ---
 
-# 📈 GitHub Stats
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ebraam Atef&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![Ebraam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebraam-Ber&show_icons=true&theme=tokyonight)
+![](https://nirzak-streak-stats.vercel.app/?user=Ebraam Atef&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebraam Atef&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://visitcount.itsvg.in/api?id=Ebraam Atef&icon=0&color=0)
