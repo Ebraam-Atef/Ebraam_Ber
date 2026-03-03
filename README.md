@@ -80,6 +80,6 @@ I enjoy solving real-world problems, building data-driven solutions, and continu
 
 # 📈 GitHub Stats
 
-![Ebraam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Ebraam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebraam-Atef&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
